@@ -26,6 +26,7 @@ _Write your thought & Download it_
 Clone the repository and install dependencies:
 
 git clone https://github.com/ashishpatel46/notepad-app.git
+
 cd notepad-app
 npm install
 
